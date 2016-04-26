@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Peepchat
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,8 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+Learning about phoenix and elixir using 
+Mike North peepchat tutorial.
+https://medium.com/@mikenorth/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.ytnciccri
+>>>>>>> 49318892cd560df1fdf873acf484f4d57a86d688
