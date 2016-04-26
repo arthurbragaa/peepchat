@@ -320,7 +320,7 @@ define("peepchat/templates/application", ["exports"], function (exports) {
 /* jshint ignore:start */
 
 define('peepchat/config/environment', ['ember'], function(Ember) {
-  return { 'default': {"modulePrefix":"peepchat","environment":"development","baseURL":"/","locationType":"auto","EmberENV":{"FEATURES":{}},"APP":{"name":"peepchat","version":"0.0.0+d83a26b7"},"exportApplicationGlobal":true}};
+  return { 'default': {"modulePrefix":"peepchat","environment":"development","baseURL":"/","locationType":"auto","EmberENV":{"FEATURES":{}},"APP":{"name":"peepchat","version":"0.0.0+a072ef5b"},"exportApplicationGlobal":true}};
 });
 
 /* jshint ignore:end */
@@ -328,7 +328,7 @@ define('peepchat/config/environment', ['ember'], function(Ember) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("peepchat/app")["default"].create({"name":"peepchat","version":"0.0.0+d83a26b7"});
+  require("peepchat/app")["default"].create({"name":"peepchat","version":"0.0.0+a072ef5b"});
 }
 
 define('~fastboot/app-factory', ['peepchat/app', 'peepchat/config/environment'], function(App, config) {
